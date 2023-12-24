@@ -1,38 +1,44 @@
 {
   "1": {
     "id": 1,
-    "name": "Pezsis hajó",
-    "description": "Zsófi Pesten volt, ezért elmentünk egy unlimited pezsgős hajóra. Alapból majdnem lekéstük (legalábbis azt hittük lol) és futtottunk rendesen. Megismerkedtünk egy ausztrál csajjal, aki apuci pénzén utazta körbe a világot. Ezután nagyon kellett pisilni, ezért beültünk valami random helyre.",
+    "name": "Pezsis haj\u00f3",
+    "description": "Zs\u00f3fi Pesten volt, ez\u00e9rt elment\u00fcnk egy unlimited pezsg\u0151s haj\u00f3ra. Alapb\u00f3l majdnem lek\u00e9st\u00fck (legal\u00e1bbis azt hitt\u00fck lol) \u00e9s futtottunk rendesen. Megismerkedt\u00fcnk egy ausztr\u00e1l csajjal, aki apuci p\u00e9nz\u00e9n utazta k\u00f6rbe a vil\u00e1got. Ezut\u00e1n nagyon kellett pisilni, ez\u00e9rt be\u00fclt\u00fcnk valami random helyre.",
     "link": "img/hajo.jpeg"
   },
   "2": {
     "id": 2,
-    "name": "Zoo café",
-    "description": "Elmentünk a Zoo cafébe, ahol nagyon cuki állatokkal találkoztunk, mint például az a nyuszi, aki meg akarta enni a kajánkat. Találkoztunk cuki teknősökkel is, meg egy kaméleonnal.",
+    "name": "Zoo caf\u00e9",
+    "description": "Elment\u00fcnk a Zoo caf\u00e9be, ahol nagyon cuki \u00e1llatokkal tal\u00e1lkoztunk, mint p\u00e9ld\u00e1ul az a nyuszi, aki meg akarta enni a kaj\u00e1nkat. Tal\u00e1lkoztunk cuki tekn\u0151s\u00f6kkel is, meg egy kam\u00e9leonnal.",
     "link": "img/zoocafe.jpg"
   },
   "3": {
     "id": 3,
-    "name": "Balatoni nyaralás",
-    "description": "Az idei évi balatoni nyaralása is nagyot ment, szerintem nagyon eltaláltuk azt hogy kiket kell hívni (kivéve Boti). A legjobb volt amikor a kis hajón voltunk és a kis hajóban voltunk és a kis hajón voltunk és a kis hajóban voltunk és a kis hajón voltunk és a kis hajóban voltunk és a kis hajón voltunk és a kis hajóban voltunk és a kis hajón voltunk és a kis hajóban voltunk és a kis hajón voltunk és a kis hajóban voltunk és a kis hajón voltunk és a kis hajóban voltunk. (Ez egy kis hajó volt.)",
+    "name": "Balatoni nyaral\u00e1s",
+    "description": "Az idei \u00e9vi balatoni nyaral\u00e1sa is nagyot ment, szerintem nagyon eltal\u00e1ltuk azt hogy kiket kell h\u00edvni (kiv\u00e9ve Boti). A legjobb volt amikor a kis haj\u00f3n voltunk \u00e9s a kis haj\u00f3ban voltunk \u00e9s a kis haj\u00f3n voltunk \u00e9s a kis haj\u00f3ban voltunk \u00e9s a kis haj\u00f3n voltunk \u00e9s a kis haj\u00f3ban voltunk \u00e9s a kis haj\u00f3n voltunk \u00e9s a kis haj\u00f3ban voltunk \u00e9s a kis haj\u00f3n voltunk \u00e9s a kis haj\u00f3ban voltunk \u00e9s a kis haj\u00f3n voltunk \u00e9s a kis haj\u00f3ban voltunk \u00e9s a kis haj\u00f3n voltunk \u00e9s a kis haj\u00f3ban voltunk. (Ez egy kis haj\u00f3 volt.)",
     "link": "img/balaton.jpeg"
   },
   "4": {
     "id": 4,
-    "name": "Ági, avagy playa",
-    "description": "This is the first picture",
+    "name": "\u00c1gi, avagy playa",
+    "description": "Sok kaj\u00e1z\u00e1s sz\u00edntere (\u00e9n sose tudom megenni a kaj\u00e1m, Lilla meg mindig tal\u00e1lkozik valami ismer\u0151ssel). ",
     "link": "img/agi.jpg"
   },
   "5": {
     "id": 5,
     "name": "Barbie film",
-    "description": "This is the third picture",
+    "description": "Elment\u00fcnk megn\u00e9zni a Barbie filmet \u00e9s juh\u00fa milyen ly\u00f3 volt. Ut\u00e1na megmutattam nektek a 2k-t \u00e9s im\u00e1dt\u00e1tok. :D",
     "link": "img/barbie.jpg"
   },
   "6": {
     "id": 6,
-    "name": "Gödör meg miegymás",
-    "description": "This is the fourth picture",
+    "name": "G\u00f6d\u00f6r meg miegym\u00e1s",
+    "description": "Ez az amikor Lilla \u00e9s Jan\u00f3 \u00e9pp k\u00fcl\u00f6n voltak, de m\u00e9gis elment\u00fcnk g\u00f6d\u00f6rbe xdd. Tal\u00e1lkoztunk itt N\u00e1ndival meg Keb\u00e1val is, ja meg g\u00f6r\u00f6g g\u00f6d\u00f6r volt sz\u00f3val fel is \u00f6lt\u00f6zt\u00fcnk (m\u00e1raki).",
     "link": "img/godor.jpg"
+  },
+  "7": {
+    "id": 7,
+    "name": "G\u00f3lyat\u00e1bor",
+    "link": "https://i.ytimg.com/vi/_N-b9EIf75g/maxresdefault.jpg",
+    "description": "Itt ismerkedt\u00fcnk meg :)"
   }
 }

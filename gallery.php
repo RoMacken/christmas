@@ -34,7 +34,15 @@ $selected = $pics[$_GET['id']];
         <?php
         $selected_id = $_GET['id'];
         $next_id = $selected_id + 1;
+        if ($next_id > count($pics)) {
+            $next_id = 1;
+        }
         ?>
-        <a href="gallery.php?id=<?= $next_id ?>">Next memory</a>
+        <div id="edit">
+            <a href="edit.php?id=<?=$selected_id?>"><span>Edit memory</span></a>
+        </div>
     </main>
+    <footer>
+        <a href="gallery.php?id=<?= $next_id ?>">Next memory</a>
+    </footer>
 </body>
