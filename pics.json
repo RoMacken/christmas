@@ -1,0 +1,38 @@
+{
+  "1": {
+    "id": 1,
+    "name": "Pezsis hajó",
+    "description": "Zsófi Pesten volt, ezért elmentünk egy unlimited pezsgős hajóra. Alapból majdnem lekéstük (legalábbis azt hittük lol) és futtottunk rendesen. Megismerkedtünk egy ausztrál csajjal, aki apuci pénzén utazta körbe a világot. Ezután nagyon kellett pisilni, ezért beültünk valami random helyre.",
+    "link": "img/hajo.jpeg"
+  },
+  "2": {
+    "id": 2,
+    "name": "Zoo café",
+    "description": "Elmentünk a Zoo cafébe, ahol nagyon cuki állatokkal találkoztunk, mint például az a nyuszi, aki meg akarta enni a kajánkat. Találkoztunk cuki teknősökkel is, meg egy kaméleonnal.",
+    "link": "img/zoocafe.jpg"
+  },
+  "3": {
+    "id": 3,
+    "name": "Balatoni nyaralás",
+    "description": "Az idei évi balatoni nyaralása is nagyot ment, szerintem nagyon eltaláltuk azt hogy kiket kell hívni (kivéve Boti). A legjobb volt amikor a kis hajón voltunk és a kis hajóban voltunk és a kis hajón voltunk és a kis hajóban voltunk és a kis hajón voltunk és a kis hajóban voltunk és a kis hajón voltunk és a kis hajóban voltunk és a kis hajón voltunk és a kis hajóban voltunk és a kis hajón voltunk és a kis hajóban voltunk és a kis hajón voltunk és a kis hajóban voltunk. (Ez egy kis hajó volt.)",
+    "link": "img/balaton.jpeg"
+  },
+  "4": {
+    "id": 4,
+    "name": "Ági, avagy playa",
+    "description": "This is the first picture",
+    "link": "img/agi.jpg"
+  },
+  "5": {
+    "id": 5,
+    "name": "Barbie film",
+    "description": "This is the third picture",
+    "link": "img/barbie.jpg"
+  },
+  "6": {
+    "id": 6,
+    "name": "Gödör meg miegymás",
+    "description": "This is the fourth picture",
+    "link": "img/godor.jpg"
+  }
+}
